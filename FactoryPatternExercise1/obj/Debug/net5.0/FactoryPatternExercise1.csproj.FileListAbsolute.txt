@@ -1,0 +1,16 @@
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.exe
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.deps.json
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.runtimeconfig.json
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.runtimeconfig.dev.json
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.dll
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\ref\FactoryPatternExercise1.dll
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\bin\Debug\net5.0\FactoryPatternExercise1.pdb
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.csproj.AssemblyReference.cache
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.AssemblyInfoInputs.cache
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.AssemblyInfo.cs
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.csproj.CoreCompileInputs.cache
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.dll
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\ref\FactoryPatternExercise1.dll
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.pdb
+C:\Users\britt\reposTC\FactoryPatternExercise1\FactoryPatternExercise1\obj\Debug\net5.0\FactoryPatternExercise1.genruntimeconfig.cache
